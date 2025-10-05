@@ -1,5 +1,0 @@
-Flask
-flask-cors
-PyMuPDF
-Pillow
-gunicorn
